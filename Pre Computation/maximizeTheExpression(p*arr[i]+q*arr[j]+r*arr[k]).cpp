@@ -7,6 +7,8 @@ Ex:p=1,q=2,r=3 i,j,k=3,4,5
 
 so p*3+2*4+3*5=26
 
+Brute Force solution:O(n^3)
+Optimal Solution:O(n)
 
 #include <iostream>
 #include<bits/stdc++.h>
